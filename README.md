@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Atharv — an aspiring developer and cybersecurity analyst, currently diving into React.js and building accessible web applications. I'm actively working on Data Structures and Algorithms <br>through platforms like LeetCode and GeeksforGeeks, and <br>strengthening my cybersecurity skills with hands-on labs on <br>TryHackMe. I'm open to collaboration and always eager to learn. <br>Currently exploring and trying to contribute to open source projects <br>to grow through real-world code and community experiences. 
+👋 Hi there! I'm Atharv — an aspiring developer and cybersecurity analyst, currently diving into React.js and building accessible web applications. I'm actively working on Data Structures and Algorithms through platforms like LeetCode and GeeksforGeeks, and strengthening my cybersecurity skills with hands-on labs on TryHackMe. I'm open to collaboration and always eager to learn. Currently exploring and trying to contribute to open source projects to grow through real-world code and community experiences. 
 
 
 ## 🌐 Socials:
