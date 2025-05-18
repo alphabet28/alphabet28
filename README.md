@@ -1,3 +1,7 @@
+# ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 # 💫 About Me:
 👋 Hi there! I'm Atharv — an aspiring developer and cybersecurity analyst, currently diving into React.js and building accessible web applications. I'm actively working on Data Structures and Algorithms through platforms like LeetCode and GeeksforGeeks, and strengthening my cybersecurity skills with hands-on labs on TryHackMe. I'm open to collaboration and always eager to learn. Currently exploring and trying to contribute to open source projects to grow through real-world code and community experiences. 
 
@@ -15,8 +19,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alphabet28&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alphabet28&limit=5&theme=dark&combine_all_yearly_contributions=true)
